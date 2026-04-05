@@ -32,7 +32,6 @@ Atualmente estudo e desenvolvo projetos com **Python**, **HTML**, **CSS** e **Ja
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/amin-nelli/)
-[![Email](https://img.shields.io/badge/Email-Contato-red?logo=gmail)](mailto:SEU_EMAIL)
 
 ---
 
