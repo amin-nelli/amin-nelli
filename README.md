@@ -1,4 +1,4 @@
-# 👨‍💻Amin Santos Nelli
+# 💻Amin Santos Nelli
 
 Estudos focado em **programação**.
 
