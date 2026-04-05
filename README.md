@@ -37,6 +37,4 @@ Atualmente estudo e desenvolvo projetos com **Python**, **HTML**, **CSS** e **Ja
 
 ## ✨ Objetivo
 
-## ✨ Objetivo
-
 Construir minha trajetória na área de desenvolvimento de software, aplicando meus conhecimentos em programação para criar soluções práticas, inteligentes e funcionais, sem deixar de lado minha base em automação, robótica e integração entre hardware e software.
