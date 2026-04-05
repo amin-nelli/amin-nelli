@@ -1,6 +1,6 @@
 # Olá, sou o Amin 👋
 
-Sou focado em **automação industrial**, **programação**, **sistemas embarcados** e **robótica**.
+Estudos focado em **programação**.
 
 Atualmente estudo e desenvolvo projetos com **Python**, **HTML**, **CSS** e **JavaScript**.
 
