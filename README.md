@@ -8,11 +8,11 @@ Atualmente estudo e desenvolvo projetos com **Python**, **HTML**, **CSS** e **Ja
 
 ## 🚀 Sobre mim
 
-- 💻 Programação aplicada à automação
-- ⚙️ Integração entre hardware e software
-- 🤖 Projetos com robótica e sistemas embarcados
-- 🧠 Interesse em IA local, visão computacional e automação residencial
-
+- 💻 Foco em desenvolvimento de software, com dedicação ao aprendizado contínuo e à evolução prática em programação
+- 🎓 Estudante de Engenharia da Computação, com formação complementar por meio de bootcamp full stack e cursos de Python e Java
+- ⚙️ Já atuei em projetos e estudos envolvendo automação, sistemas embarcados, robótica e integração entre hardware e software
+- 🧠 Interesse em criar soluções inteligentes que unam desenvolvimento de software, automação e inovação tecnológica
+  
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
