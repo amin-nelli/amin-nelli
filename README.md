@@ -37,4 +37,6 @@ Atualmente estudo e desenvolvo projetos com **Python**, **HTML**, **CSS** e **Ja
 
 ## ✨ Objetivo
 
-Evoluir cada vez mais em **automação industrial**, **programação**, **robótica** e **sistemas inteligentes**, criando projetos práticos que unam software, eletrônica e controle.
+## ✨ Objetivo
+
+Construir minha trajetória na área de desenvolvimento de software, aplicando meus conhecimentos em programação para criar soluções práticas, inteligentes e funcionais, sem deixar de lado minha base em automação, robótica e integração entre hardware e software.
