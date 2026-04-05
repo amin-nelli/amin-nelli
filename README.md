@@ -1,4 +1,4 @@
-# Olá, eu sou o Amin 👋
+# Olá, sou o Amin 👋
 
 Sou focado em **automação industrial**, **programação**, **sistemas embarcados** e **robótica**.
 
@@ -12,12 +12,12 @@ Atualmente estudo e desenvolvo projetos com **Python**, **HTML**, **CSS** e **Ja
 - 🎓 Estudante de Engenharia da Computação, com formação complementar por meio de bootcamp full stack e cursos de Python e Java
 - ⚙️ Já atuei em projetos e estudos envolvendo automação, sistemas embarcados, robótica e integração entre hardware e software
 - 🧠 Interesse em criar soluções inteligentes que unam desenvolvimento de software, automação e inovação tecnológica
-  
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,arduino,linux,vscode,pycharm,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,arduino,linux,vscode,pycharm&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -25,7 +25,7 @@ Atualmente estudo e desenvolvo projetos com **Python**, **HTML**, **CSS** e **Ja
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amin-nelli&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amin-nelli&layout=compact&theme=tokyonight)
 
 ---
 
