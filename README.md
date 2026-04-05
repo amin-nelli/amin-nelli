@@ -1,4 +1,4 @@
-# Olá, sou o Amin 👋
+# 👩‍💻Amin Santos Nelli
 
 Estudos focado em **programação**.
 
