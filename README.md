@@ -1,8 +1,8 @@
 # 💻 Amin Santos Nelli
 
-Estudos focado em **programação**.
+Estudante e desenvolvedor em formação, com foco em **programação**.
 
-Atualmente estudo e desenvolvo projetos com **Python**, **HTML**, **CSS** e **JavaScript**.
+Atualmente estudo e desenvolvo projetos com **Python**, **HTML**, **CSS** e **JavaScript**, buscando evoluir constantemente na área de desenvolvimento de software.
 
 ---
 
@@ -17,7 +17,16 @@ Atualmente estudo e desenvolvo projetos com **Python**, **HTML**, **CSS** e **Ja
 
 ## 🛠️ Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,arduino,linux,vscode,pycharm&theme=dark)](https://skillicons.dev)
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,anaconda,arduino,linux,vscode,pycharm&theme=dark)](https://skillicons.dev)
+
+<br><br>
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM%20Studio-111111?style=for-the-badge)
+
+</div>
 
 ---
 
