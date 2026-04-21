@@ -1,4 +1,4 @@
-# 💻Amin Santos Nelli
+# 💻 Amin Santos Nelli
 
 Estudos focado em **programação**.
 
@@ -23,9 +23,10 @@ Atualmente estudo e desenvolvo projetos com **Python**, **HTML**, **CSS** e **Ja
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amin-nelli&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amin-nelli&layout=compact&theme=tokyonight)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amin-nelli&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amin-nelli&layout=compact&theme=tokyonight" />
+</div>
 
 ---
 
